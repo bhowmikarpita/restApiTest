@@ -36,7 +36,6 @@ public class getAndPostExample {
 		/*
 		 * Map<String, Object> map=new HashMap<String,Object>(); map.put("name",
 		 *
-		 * 
 		 * "Kuhu"); map.put("job", "Playing"); System.out.println(map);
 		 */
 		
