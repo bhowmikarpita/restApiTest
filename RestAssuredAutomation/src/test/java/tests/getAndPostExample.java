@@ -23,7 +23,7 @@ public class getAndPostExample {
 		then()
 		.statusCode(200)
 		.body("data[2].first_name", equalTo("Tobias"))
-		.body("data.first_name", hasItems("Tobias","Georgei"))
+		.body("data.first_name", hasItems("Tobias","George"))
 		
 		;
 		
